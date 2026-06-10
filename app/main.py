@@ -70,7 +70,7 @@ def root():
         "expected_inputs": {
             "date": "string (YYYY-MM-DD)"
         },
-        "github_repo": "https://github.com/Mitesh2412/AMLA_AT2_API"
+        "github_repo": "https://github.com/Mitesh2412/weather-prediction-api"
     }
 
 @app.get("/health/")
