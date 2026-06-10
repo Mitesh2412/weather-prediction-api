@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "amla-at2-api"
+version = "0.0.1"
+description = "FastAPI app for AMLA AT2"
+requires-python = ">=3.11"
+dependencies = ["fastapi","uvicorn","pandas","numpy","scikit-learn","joblib","g20-at1-utils==0.0.5"]

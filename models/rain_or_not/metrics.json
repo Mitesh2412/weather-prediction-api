@@ -1,0 +1,1 @@
+{"validation": {"accuracy": 0.585, "precision": 0.17, "recall": 0.587, "f1": 0.264, "roc_auc": 0.597}, "test": {"accuracy": 0.606, "precision": 0.175, "recall": 0.573, "f1": 0.268, "roc_auc": 0.583}}
